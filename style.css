@@ -1,0 +1,44 @@
+.navbar{
+background-color: orange;
+border-radius: 15px;
+}
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    list-style-type: none;
+    float: left;
+    padding: 10px 9px;
+}
+.navbar li a{
+    text-decoration:none;
+    color: black;
+}
+.navbar li a:hover{
+
+    background-color: maroon ;
+    font-size: large;
+}
+.search{
+    float: right;
+    padding: 4px 7px;
+    margin: 5px 34px;
+    
+}
+#search{
+    border-radius: 14px;
+}
+html{
+    background-color:white;
+    /* background-image:url(".avif"); */
+}
+.img{
+   text-align: center;
+   margin-top: 2%;
+}
+p{
+    text-align: center;
+    color:maroon;
+    font-size: large;
+}
